@@ -19,17 +19,3 @@ To deeply understand and implement:
 - Evaluation of retrieval quality
 
 All implemented step-by-step in Python.
-
----
-
-## Project Structure
-
-rag-foundation/
-│
-├── data/ # Sample documents
-├── src/
-│ ├── loader.py # Document loading logic
-│ ├── chunker.py # Chunking strategies
-│ └── (future) embedder.py
-│
-└── main.py # Pipeline execution
