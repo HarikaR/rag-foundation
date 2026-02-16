@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on building systems capable of performing tasks that typically require human intelligence. These tasks include reasoning, learning, perception, and decision-making.
+
+Machine Learning (ML) is a subset of Artificial Intelligence. It enables systems to learn patterns from data without being explicitly programmed. ML algorithms improve their performance as they are exposed to more data over time.
+
+Deep Learning is a specialized area within Machine Learning that uses neural networks with multiple layers. These networks are capable of learning complex representations from large amounts of data. Deep learning has achieved breakthroughs in computer vision, speech recognition, and natural language processing.
+
+Natural Language Processing (NLP) allows computers to understand, interpret, and generate human language. Applications of NLP include chatbots, sentiment analysis, translation systems, and information retrieval.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval techniques with generative language models. Instead of relying solely on model memory, RAG systems retrieve relevant documents from a knowledge base and use them to generate more accurate and context-aware responses.
+
+Embeddings are numerical vector representations of text. They capture semantic meaning such that similar texts have similar vector representations. Embeddings are essential for similarity search and vector databases.
+
+Vector databases store embeddings and allow efficient similarity-based retrieval. Cosine similarity is commonly used to measure the similarity between two vectors.
+
+Chunking is the process of breaking large documents into smaller pieces. Proper chunking improves retrieval performance and ensures relevant context is passed to the language model.
